@@ -1,0 +1,9 @@
+{
+  "appId": "com.studio.kitab",
+  "appName": "كتاب بحار الانوار",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#0f172a"
+  }
+}
